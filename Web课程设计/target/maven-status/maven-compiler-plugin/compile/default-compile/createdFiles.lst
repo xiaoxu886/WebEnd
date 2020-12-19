@@ -1,0 +1,11 @@
+bean\NewsExample$Criterion.class
+test\NewsTest.class
+bean\NewsExample$Criteria.class
+bean\News.class
+bean\NewsExample.class
+bean\NewsExample$GeneratedCriteria.class
+test\generator.class
+service\NewsService.class
+dao\NewsMapper.class
+bean\msg.class
+controller\NewsController.class
